@@ -1,0 +1,6 @@
+{
+  "name": "x",
+  "scripts": {
+    "postinstall": "echo postinstall ok"
+  }
+}
