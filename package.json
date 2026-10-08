@@ -1,0 +1,6 @@
+{
+  "name": "x",
+  "dependencies": {
+    "helper": "github:example/helper"
+  }
+}
