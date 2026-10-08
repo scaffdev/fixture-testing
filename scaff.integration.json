@@ -1,0 +1,20 @@
+{
+  "kode": "fixture-vscode",
+  "version": "0.0.0",
+  "frameworks": [
+    "nextjs"
+  ],
+  "files": [
+    {
+      "src": "lib/fixture.ts",
+      "dest": "lib/fixture.ts"
+    }
+  ],
+  "removal": {
+    "files": [
+      "lib/fixture.ts"
+    ],
+    "env": [],
+    "stepsFile": "REMOVE.md"
+  }
+}

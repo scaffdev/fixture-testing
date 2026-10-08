@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    {
+      "label": "dev",
+      "command": "npm run dev"
+    }
+  ]
+}
